@@ -1,0 +1,3 @@
+/home/zzhyyds/482/p2team-03/build/CMakeFiles/rebuild_cache.dir
+/home/zzhyyds/482/p2team-03/build/CMakeFiles/edit_cache.dir
+/home/zzhyyds/482/p2team-03/build/CMakeFiles/lemondb.dir
